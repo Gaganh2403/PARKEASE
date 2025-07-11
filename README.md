@@ -24,7 +24,6 @@
 * [About the Project](#about-the-project)
 * [Methodology](#Methodology)
 * [Getting Started](#guide-for-running-the-code)
-* [License](#license)
 
 ## About The Project
 Introducing PARKEASE, the revolutionary concept designed to streamline parking with zero human intervention. Say goodbye to the hassle of searching for parking spots and dealing with attendants. PARKEASE leverages cutting-edge technology to automate the entire parking process, ensuring a seamless experience for users.
