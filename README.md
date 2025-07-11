@@ -19,7 +19,6 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Shivanaik11/PARKEASE?color=dark-green) ![Forks](https://img.shields.io/github/forks/Shivanaik11/PARKEASE?style=social) ![Stargazers](https://img.shields.io/github/stars/Shivanaik11/PARKEASE?style=social) 
 
 ## Table Of Contents
 * [About the Project](#about-the-project)
