@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Shivanaik11/PARKEASE">
-    <img src="images/company_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
